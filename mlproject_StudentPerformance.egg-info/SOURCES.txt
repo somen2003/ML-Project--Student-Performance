@@ -1,0 +1,7 @@
+README.md
+setup.py
+mlproject_StudentPerformance.egg-info/PKG-INFO
+mlproject_StudentPerformance.egg-info/SOURCES.txt
+mlproject_StudentPerformance.egg-info/dependency_links.txt
+mlproject_StudentPerformance.egg-info/requires.txt
+mlproject_StudentPerformance.egg-info/top_level.txt
